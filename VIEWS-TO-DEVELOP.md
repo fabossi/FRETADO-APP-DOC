@@ -1,7 +1,3 @@
-Aqui está a estrutura detalhada de todas as telas que precisarão ser desenvolvidas, separadas por **Usuário (Funcionários)** e **Motorista**, com cada funcionalidade bem definida.  
-
----
-
 # **Usuário (Funcionários)**  
 
 ## **1. Tela de Home (Dashboard)**  
@@ -188,7 +184,3 @@ Aqui está a estrutura detalhada de todas as telas que precisarão ser desenvolv
 - Lista de **passageiros embarcados**.  
 - Opção para **marcar ausentes**.  
 - Botão para **relatar imprevistos**.  
-
----
-
-Essa estrutura cobre todas as funcionalidades detalhadamente. Caso precise ajustar ou adicionar algo, me avise! 🚀
