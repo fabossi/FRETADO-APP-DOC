@@ -194,7 +194,7 @@
 
 ---
 
-## **15. Tela de Achados e Perdidos** (Nova)
+## **15. Tela de Achados e Perdidos**
 📌 **Objetivo:** Facilitar a recuperação de itens perdidos durante as viagens.
 
 🔹 **Componentes:**
