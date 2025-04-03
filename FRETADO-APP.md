@@ -1,11 +1,9 @@
 
-**Sobre o que é esse Aplicativo**
----
+## **Sobre o que é esse Aplicativo**
 
 Este aplicativo é uma solução abrangente para serviços de fretado corporativo, projetado para otimizar a experiência de transporte dos funcionários. Ele oferece funcionalidades como agendamento de viagens, rastreamento em tempo real dos ônibus, check-in digital, sistema de alertas personalizáveis, incluindo um modo soneca para viagens de retorno, e uma plataforma de achados e perdidos. O app também inclui recursos de carona compartilhada, alternativas de transporte, feedback e avaliação do serviço, além de um painel dedicado para motoristas. Com foco na eficiência e conveniência, o aplicativo visa melhorar a pontualidade, a comunicação e a satisfação geral dos usuários do serviço de fretado.
 
-**Como será desenvolvido?
----
+## **Como será desenvolvido?**
 
 O aplicativo será desenvolvido utilizando Swift para a versão iOS, garantindo uma experiência nativa e otimizada para dispositivos Apple. Para a versão Android, será utilizada a linguagem *A definir*, proporcionando um desempenho robusto e uma interface fluida para usuários de dispositivos Android. Esta abordagem de desenvolvimento nativo para ambas as plataformas assegurará a melhor experiência possível para todos os usuários, independentemente do sistema operacional de seus smartphones.
 
