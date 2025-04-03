@@ -7,7 +7,7 @@ Este aplicativo é uma solução abrangente para serviços de fretado corporativ
 
 O aplicativo será desenvolvido utilizando Swift para a versão iOS, garantindo uma experiência nativa e otimizada para dispositivos Apple. Para a versão Android, será utilizada a linguagem *A definir*, proporcionando um desempenho robusto e uma interface fluida para usuários de dispositivos Android. Esta abordagem de desenvolvimento nativo para ambas as plataformas assegurará a melhor experiência possível para todos os usuários, independentemente do sistema operacional de seus smartphones.
 
-# **Usuário (Funcionários)**
+# **Interfaces/Funcionalidades Usuários**
 
 ## **1. Tela de Login/Registro**
 📌 **Objetivo:** Autenticar o usuário e permitir novos registros.
@@ -219,7 +219,7 @@ O aplicativo será desenvolvido utilizando Swift para a versão iOS, garantindo 
 
 ---
 
-# **Motorista**
+# **Interfaces/Funcionalidades Motorista**
 
 ## **1. Tela de Home do Motorista**
 📌 **Objetivo:** Centralizar as principais funções do motorista.
